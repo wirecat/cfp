@@ -33,4 +33,4 @@ I chose the 25-Minute track vs. the more in-depth 45 minute track because I beli
     * Give thanks
 
 # Speaker Biography
-Daniel is a developer at GitHub who is fortunate to work with a talented and compassionate team focused on making a positive developer experience for everyone. Daniel loves collobaration and the shared experience of growth through learning and teaching.
+Daniel is a Senior Software Engineer at GitHub who is fortunate to work with a talented and passionate team focused on making a positive developer experience for everyone. Daniel loves collaboration and the shared experience of growth through learning and teaching.
