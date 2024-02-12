@@ -1,8 +1,8 @@
 # Title
-Should I use Inversion of Control Containers in Go?
+Inversion of Control (IoC) Containers, friend or foe?
 
 # Abstract
-Inversion of Control (IoC) Containers, evil or just misunderstood? Lets explore this tool at a high level so you can decide for yourself. We'll cover what an IoC Container is, when to use it, when not to use it, and some things to watch out for.
+If you're unfamiliar Inversion of Control (IoC) Containers or have avoided them in the past, then this may be the talk for you. This talk will do it's best to present an unbiased exploration of IoC Containers so you can decide for yourself if it is a friend or foe. We'll cover what an IoC Container is, when to use it, when not to use it, and some things to watch out for.
 
 # Format
 I chose the 25-Minute track vs. the more in-depth 45 minute track because I believe the community would benefit more from a high-level overview of IoC Containers vs. a deep dive.
@@ -24,7 +24,7 @@ I chose the 25-Minute track vs. the more in-depth 45 minute track because I beli
     * Applications with a strict performance requirement
 * (5 Minutes) Things to Watch For
     * Binding failures at runtime
-    * Can make code harder to understand/follow code paths
+    * Can increase the complexity of a code base
     * Service Locator Pattern - Please don't!
 * (2 Minutes) Conclusion
     * Recap of the main points
@@ -33,4 +33,4 @@ I chose the 25-Minute track vs. the more in-depth 45 minute track because I beli
     * Give thanks
 
 # Speaker Biography
-Daniel is a Senior Software Engineer at GitHub who is fortunate to work with a talented and passionate team focused on making a positive developer experience for everyone. Daniel loves collaboration and the shared experience of growth through learning and teaching.
+Daniel is a Senior Software Engineer at GitHub and has spent most of his 12 years in the industry solving problems with the help of IoC containers. He has spent the last 2 years working in Go primarily and is excited to be an active participant in the Go community as the language and its ecosystem both continue to grow.
